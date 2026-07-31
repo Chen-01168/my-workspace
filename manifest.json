@@ -1,7 +1,7 @@
 {
-  "name": "我的工作台",
-  "short_name": "工作台",
-  "description": "个人效率工作台 - 目标规划、运动健身、英语学习、收支记账",
+  "name": "work everyday",
+  "short_name": "work everyday",
+  "description": "work everyday - 个人效率工作台",
   "start_url": "workspace.html",
   "display": "standalone",
   "orientation": "portrait",
