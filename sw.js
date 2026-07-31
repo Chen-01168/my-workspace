@@ -1,4 +1,4 @@
-const CACHE_NAME = 'workspace-v1';
+const CACHE_NAME = 'workspace-v2';
 
 // 需要缓存的文件列表
 const ASSETS = [
